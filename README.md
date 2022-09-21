@@ -70,7 +70,7 @@
 <a href="https://github.com/cogito-dron/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=cogito">
 </a>
-<a href="https://github.com/cogio-dron?tab=followers"><img src="https://img.shields.io/github/followers/cogito-dron?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/cogito-dron?tab=followers"><img src="https://img.shields.io/github/followers/cogito-dron?label=Followers&style=social" alt="GitHub Badge"></a>
 
 ![bottom.png](https://i.loli.net/2020/07/12/b3grZD6LFseGuUP.png)
 
