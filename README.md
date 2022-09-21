@@ -40,7 +40,7 @@
 
 <div align="center">
     <a href="https://github.com/cogito-dron/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dron Rahangdale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cogitoi-dro&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dron Rahangdale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cogito-dron&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </div>
 
