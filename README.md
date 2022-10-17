@@ -40,7 +40,7 @@
 
 <div align="center">
     <a href="https://github.com/cogito-dron/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dron Rahangdale's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cogito-dron&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Dron's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=cogito-dron&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </div>
 
@@ -48,9 +48,9 @@
 
   <br/>
 <p align="center">
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=cogito-dron&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cogito-dron&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=cogito-dron&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
 <p align="center">
-<a href="https://github.com/cogito-dron/github-readme-activity-graph"><img width="900px" alt="Dron Rahangdale's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cogito-dron&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/cogito-dron/github-readme-activity-graph"><img width="900px" alt="Dron's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=cogito-dron&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
   </p>
    
